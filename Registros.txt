@@ -1,0 +1,12 @@
+Juan Gomez
+          Yambal
+                   Activo
+                            500000
+Jose Veloz
+          Corona
+                   Activo
+                            1234000
+Diana Gonzalez
+          Postobon
+                   Activo
+                            6540000
